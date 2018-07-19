@@ -1,0 +1,92 @@
+{
+  "assetsByChunkName": {
+    "path---web-portfolio": [
+      "path---web-portfolio-77ea58c13c295288c347.js",
+      "path---web-portfolio-77ea58c13c295288c347.js.map"
+    ],
+    "path---tags-lesson": [
+      "path---tags-lesson-327475c3a23b1291a9ed.js",
+      "path---tags-lesson-327475c3a23b1291a9ed.js.map"
+    ],
+    "path---categories-레슨": [
+      "path---categories-레슨-b9e6073560f4ffb5a0b5.js",
+      "path---categories-레슨-b9e6073560f4ffb5a0b5.js.map"
+    ],
+    "path---pencil-drawing": [
+      "path---pencil-drawing-dfafc65e06fc56899e54.js",
+      "path---pencil-drawing-dfafc65e06fc56899e54.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-layouts-index-jsx": [
+      "component---src-layouts-index-jsx-cbca55f324316dd87622.js",
+      "component---src-layouts-index-jsx-cbca55f324316dd87622.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "component---src-templates-category-jsx": [
+      "component---src-templates-category-jsx-08830e7ddfbbdc678324.js",
+      "component---src-templates-category-jsx-08830e7ddfbbdc678324.js.map"
+    ],
+    "path---index": [
+      "path---index-bec9a26199010dbed076.js",
+      "path---index-bec9a26199010dbed076.js.map"
+    ],
+    "component---src-pages-about-jsx": [
+      "component---src-pages-about-jsx-ad03a97f9d94d9bb3877.js",
+      "component---src-pages-about-jsx-ad03a97f9d94d9bb3877.js.map"
+    ],
+    "commons": [
+      "commons-98c9af178139d2f7ae49.js",
+      "build-js-styles.css",
+      "commons-98c9af178139d2f7ae49.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---travel-drawing": [
+      "path---travel-drawing-eb9a9c75ae6306dae26f.js",
+      "path---travel-drawing-eb9a9c75ae6306dae26f.js.map"
+    ],
+    "component---src-templates-tag-jsx": [
+      "component---src-templates-tag-jsx-764b229f99d3cd058dc0.js",
+      "component---src-templates-tag-jsx-764b229f99d3cd058dc0.js.map"
+    ],
+    "path---color-pencil": [
+      "path---color-pencil-20799a7a532d10291ef3.js",
+      "path---color-pencil-20799a7a532d10291ef3.js.map"
+    ],
+    "path---abstract-drawing": [
+      "path---abstract-drawing-a6474151f37c85496fe6.js",
+      "path---abstract-drawing-a6474151f37c85496fe6.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-templates-post-jsx": [
+      "component---src-templates-post-jsx-063f1d3c52eb888c70ee.js",
+      "component---src-templates-post-jsx-063f1d3c52eb888c70ee.js.map"
+    ],
+    "component---src-pages-index-jsx": [
+      "component---src-pages-index-jsx-debe36213ce45263a61a.js",
+      "component---src-pages-index-jsx-debe36213ce45263a61a.js.map"
+    ],
+    "app": [
+      "app-ed416b6f2cb29427598d.js",
+      "build-js-styles.css",
+      "app-ed416b6f2cb29427598d.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---image-grammar": [
+      "path---image-grammar-eaf293b2d682d212cced.js",
+      "path---image-grammar-eaf293b2d682d212cced.js.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
