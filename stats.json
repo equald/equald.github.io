@@ -1,62 +1,62 @@
 {
   "assetsByChunkName": {
     "path---web-portfolio": [
-      "path---web-portfolio-35f0f5b9bd4e1959d2ca.js",
-      "path---web-portfolio-35f0f5b9bd4e1959d2ca.js.map"
+      "path---web-portfolio-37f6841773d492aa25a1.js",
+      "path---web-portfolio-37f6841773d492aa25a1.js.map"
     ],
     "path---tags-lesson": [
-      "path---tags-lesson-769eaed489054e298e79.js",
-      "path---tags-lesson-769eaed489054e298e79.js.map"
+      "path---tags-lesson-5f95ec24f84d8c29d05f.js",
+      "path---tags-lesson-5f95ec24f84d8c29d05f.js.map"
     ],
     "path---pencil-drawing": [
-      "path---pencil-drawing-5a2e8808eaec548918f9.js",
-      "path---pencil-drawing-5a2e8808eaec548918f9.js.map"
+      "path---pencil-drawing-9aa675209a7cc3fcb8be.js",
+      "path---pencil-drawing-9aa675209a7cc3fcb8be.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-ebf1a1767ece7132fcc0.js",
-      "component---src-layouts-index-jsx-ebf1a1767ece7132fcc0.js.map"
+      "component---src-layouts-index-jsx-24708947dbea412ffc45.js",
+      "component---src-layouts-index-jsx-24708947dbea412ffc45.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "component---src-templates-category-jsx": [
-      "component---src-templates-category-jsx-82696208c061df8155a5.js",
-      "component---src-templates-category-jsx-82696208c061df8155a5.js.map"
+      "component---src-templates-category-jsx-d859ef98806c2517b5f4.js",
+      "component---src-templates-category-jsx-d859ef98806c2517b5f4.js.map"
     ],
     "path---index": [
-      "path---index-bca44fac55076ce12d79.js",
-      "path---index-bca44fac55076ce12d79.js.map"
+      "path---index-25097a22277ed46cd376.js",
+      "path---index-25097a22277ed46cd376.js.map"
     ],
     "component---src-pages-about-jsx": [
-      "component---src-pages-about-jsx-ad03a97f9d94d9bb3877.js",
-      "component---src-pages-about-jsx-ad03a97f9d94d9bb3877.js.map"
+      "component---src-pages-about-jsx-0d797364bcc123724e81.js",
+      "component---src-pages-about-jsx-0d797364bcc123724e81.js.map"
     ],
     "commons": [
-      "commons-d383cbd585f98605cb4b.js",
+      "commons-0d8325ce94b04808e98b.js",
       "build-js-styles.css",
-      "commons-d383cbd585f98605cb4b.js.map",
+      "commons-0d8325ce94b04808e98b.js.map",
       "build-js-styles.css.map"
     ],
     "path---travel-drawing": [
-      "path---travel-drawing-c42d6d27e9394967e6ad.js",
-      "path---travel-drawing-c42d6d27e9394967e6ad.js.map"
+      "path---travel-drawing-3f1553c9ccb458063c75.js",
+      "path---travel-drawing-3f1553c9ccb458063c75.js.map"
     ],
     "component---src-templates-tag-jsx": [
-      "component---src-templates-tag-jsx-8a5c39a21b9cbb6897df.js",
-      "component---src-templates-tag-jsx-8a5c39a21b9cbb6897df.js.map"
+      "component---src-templates-tag-jsx-6de3274ad8e8007e130a.js",
+      "component---src-templates-tag-jsx-6de3274ad8e8007e130a.js.map"
     ],
     "path---color-pencil": [
-      "path---color-pencil-d958cead55ff196b53a3.js",
-      "path---color-pencil-d958cead55ff196b53a3.js.map"
+      "path---color-pencil-49fdcc73de37afdc2b0a.js",
+      "path---color-pencil-49fdcc73de37afdc2b0a.js.map"
     ],
     "path---abstract-drawing": [
-      "path---abstract-drawing-637b47b5faa9fb325751.js",
-      "path---abstract-drawing-637b47b5faa9fb325751.js.map"
+      "path---abstract-drawing-69f5a03c9635aaf42403.js",
+      "path---abstract-drawing-69f5a03c9635aaf42403.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
@@ -67,12 +67,12 @@
       "component---src-templates-post-jsx-bda5364509800fa53bf3.js.map"
     ],
     "path---categories-lesson": [
-      "path---categories-lesson-26543af93f290f3537fa.js",
-      "path---categories-lesson-26543af93f290f3537fa.js.map"
+      "path---categories-lesson-6f939424d3e8e3448ee7.js",
+      "path---categories-lesson-6f939424d3e8e3448ee7.js.map"
     ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-436d69fd22a7fa0db692.js",
-      "component---src-pages-index-jsx-436d69fd22a7fa0db692.js.map"
+      "component---src-pages-index-jsx-2c4559cc7eb2d576d0f2.js",
+      "component---src-pages-index-jsx-2c4559cc7eb2d576d0f2.js.map"
     ],
     "app": [
       "app-b64dde0ab21ab2ac3615.js",
@@ -81,8 +81,8 @@
       "build-js-styles.css.map"
     ],
     "path---image-grammar": [
-      "path---image-grammar-6c61be00db43ff8ac4a3.js",
-      "path---image-grammar-6c61be00db43ff8ac4a3.js.map"
+      "path---image-grammar-cba889482f6c5a74bd24.js",
+      "path---image-grammar-cba889482f6c5a74bd24.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
