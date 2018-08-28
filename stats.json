@@ -1,12 +1,12 @@
 {
   "assetsByChunkName": {
     "path---web-portfolio": [
-      "path---web-portfolio-c61f90f3e1b5ebb23a74.js",
-      "path---web-portfolio-c61f90f3e1b5ebb23a74.js.map"
+      "path---web-portfolio-6a0e557f64a01fbe60a2.js",
+      "path---web-portfolio-6a0e557f64a01fbe60a2.js.map"
     ],
     "path---tags-lesson": [
-      "path---tags-lesson-a2208b3d4183722e5aa4.js",
-      "path---tags-lesson-a2208b3d4183722e5aa4.js.map"
+      "path---tags-lesson-16c7a310f06ed5808a8e.js",
+      "path---tags-lesson-16c7a310f06ed5808a8e.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -25,8 +25,8 @@
       "component---src-templates-category-jsx-d859ef98806c2517b5f4.js.map"
     ],
     "path---index": [
-      "path---index-d4e62a4a005135c3255e.js",
-      "path---index-d4e62a4a005135c3255e.js.map"
+      "path---index-17915e01385caeef2eaa.js",
+      "path---index-17915e01385caeef2eaa.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-0d797364bcc123724e81.js",
@@ -39,46 +39,46 @@
       "build-js-styles.css.map"
     ],
     "path---travel-drawing": [
-      "path---travel-drawing-8c8eb3e9adbb1a038345.js",
-      "path---travel-drawing-8c8eb3e9adbb1a038345.js.map"
+      "path---travel-drawing-d0e006de8260015c6118.js",
+      "path---travel-drawing-d0e006de8260015c6118.js.map"
     ],
     "component---src-templates-tag-jsx": [
       "component---src-templates-tag-jsx-6de3274ad8e8007e130a.js",
       "component---src-templates-tag-jsx-6de3274ad8e8007e130a.js.map"
     ],
     "path---color-pencil": [
-      "path---color-pencil-9e2bb97645d6d86c8b44.js",
-      "path---color-pencil-9e2bb97645d6d86c8b44.js.map"
+      "path---color-pencil-07083e8f8ce8a3986e54.js",
+      "path---color-pencil-07083e8f8ce8a3986e54.js.map"
     ],
     "path---abstract-drawing": [
-      "path---abstract-drawing-087f1301aeeb31677710.js",
-      "path---abstract-drawing-087f1301aeeb31677710.js.map"
+      "path---abstract-drawing-76b2d4febf9356b6e025.js",
+      "path---abstract-drawing-76b2d4febf9356b6e025.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-templates-post-jsx": [
-      "component---src-templates-post-jsx-25317015b144a856eb2a.js",
-      "component---src-templates-post-jsx-25317015b144a856eb2a.js.map"
+      "component---src-templates-post-jsx-93fdef61e7e83466a74a.js",
+      "component---src-templates-post-jsx-93fdef61e7e83466a74a.js.map"
     ],
     "path---categories-lesson": [
-      "path---categories-lesson-8a406167605837cc9454.js",
-      "path---categories-lesson-8a406167605837cc9454.js.map"
+      "path---categories-lesson-79a2c5a239f6655ce177.js",
+      "path---categories-lesson-79a2c5a239f6655ce177.js.map"
     ],
     "component---src-pages-index-jsx": [
       "component---src-pages-index-jsx-2c4559cc7eb2d576d0f2.js",
       "component---src-pages-index-jsx-2c4559cc7eb2d576d0f2.js.map"
     ],
     "app": [
-      "app-2ad22ca503615f03232a.js",
+      "app-390fe35837a512781957.js",
       "build-js-styles.css",
-      "app-2ad22ca503615f03232a.js.map",
+      "app-390fe35837a512781957.js.map",
       "build-js-styles.css.map"
     ],
     "path---image-grammar": [
-      "path---image-grammar-703222d4fcae393d1165.js",
-      "path---image-grammar-703222d4fcae393d1165.js.map"
+      "path---image-grammar-f743f112e2f42ba1d6f5.js",
+      "path---image-grammar-f743f112e2f42ba1d6f5.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
