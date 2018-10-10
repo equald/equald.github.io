@@ -1,12 +1,12 @@
 {
   "assetsByChunkName": {
     "path---web-portfolio": [
-      "path---web-portfolio-905671db872d93aef75e.js",
-      "path---web-portfolio-905671db872d93aef75e.js.map"
+      "path---web-portfolio-21d16f87c76fb7089b95.js",
+      "path---web-portfolio-21d16f87c76fb7089b95.js.map"
     ],
     "path---tags-lesson": [
-      "path---tags-lesson-623dc3c40b88a9cbe345.js",
-      "path---tags-lesson-623dc3c40b88a9cbe345.js.map"
+      "path---tags-lesson-f2f7cd3e06c85398b2bd.js",
+      "path---tags-lesson-f2f7cd3e06c85398b2bd.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -21,40 +21,40 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "path---git-workshop": [
-      "path---git-workshop-2573fe67c3b3bb1b1c72.js",
-      "path---git-workshop-2573fe67c3b3bb1b1c72.js.map"
+      "path---git-workshop-f4f7e908023310c07f8c.js",
+      "path---git-workshop-f4f7e908023310c07f8c.js.map"
     ],
     "component---src-templates-category-jsx": [
       "component---src-templates-category-jsx-ea805df5b0e40c8b8ea1.js",
       "component---src-templates-category-jsx-ea805df5b0e40c8b8ea1.js.map"
     ],
     "path---index": [
-      "path---index-da7cd04b107a9baa60ea.js",
-      "path---index-da7cd04b107a9baa60ea.js.map"
+      "path---index-e8fce8a2b6bdea264755.js",
+      "path---index-e8fce8a2b6bdea264755.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-41b4cd6c320de232bda9.js",
       "component---src-pages-about-jsx-41b4cd6c320de232bda9.js.map"
     ],
     "commons": [
-      "commons-615fc8d5376c1b2fc00f.js",
-      "commons-615fc8d5376c1b2fc00f.js.map"
+      "commons-01dd5579b03b6f480469.js",
+      "commons-01dd5579b03b6f480469.js.map"
     ],
     "path---travel-drawing": [
-      "path---travel-drawing-3f4a7a8eee961684da07.js",
-      "path---travel-drawing-3f4a7a8eee961684da07.js.map"
+      "path---travel-drawing-ba263c0d70e8eb4803db.js",
+      "path---travel-drawing-ba263c0d70e8eb4803db.js.map"
     ],
     "component---src-templates-tag-jsx": [
       "component---src-templates-tag-jsx-62b36e66eef09fc07403.js",
       "component---src-templates-tag-jsx-62b36e66eef09fc07403.js.map"
     ],
     "path---color-pencil": [
-      "path---color-pencil-c25b039521e07af6f4e8.js",
-      "path---color-pencil-c25b039521e07af6f4e8.js.map"
+      "path---color-pencil-df8b1d6cfb3279f8a8cf.js",
+      "path---color-pencil-df8b1d6cfb3279f8a8cf.js.map"
     ],
     "path---abstract-drawing": [
-      "path---abstract-drawing-c286fd80150a4997ce84.js",
-      "path---abstract-drawing-c286fd80150a4997ce84.js.map"
+      "path---abstract-drawing-7b348c72823a6939338a.js",
+      "path---abstract-drawing-7b348c72823a6939338a.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
@@ -65,24 +65,24 @@
       "component---src-templates-post-jsx-1ddcb5b1c50859829742.js.map"
     ],
     "path---categories-lesson": [
-      "path---categories-lesson-68c415c03a3d52b64783.js",
-      "path---categories-lesson-68c415c03a3d52b64783.js.map"
+      "path---categories-lesson-8739fb7421bfa63ffd84.js",
+      "path---categories-lesson-8739fb7421bfa63ffd84.js.map"
     ],
     "component---src-pages-index-jsx": [
       "component---src-pages-index-jsx-c1af7f75747880462a19.js",
       "component---src-pages-index-jsx-c1af7f75747880462a19.js.map"
     ],
     "app": [
-      "app-f2bb404fcf985bb5798e.js",
-      "app-f2bb404fcf985bb5798e.js.map"
+      "app-321e04c8146ad8611848.js",
+      "app-321e04c8146ad8611848.js.map"
     ],
     "path---tags-lesson-oneday": [
-      "path---tags-lesson-oneday-9753c10e557832df0a11.js",
-      "path---tags-lesson-oneday-9753c10e557832df0a11.js.map"
+      "path---tags-lesson-oneday-1f3ceedd814057727542.js",
+      "path---tags-lesson-oneday-1f3ceedd814057727542.js.map"
     ],
     "path---image-grammar": [
-      "path---image-grammar-04885997541978ab7b14.js",
-      "path---image-grammar-04885997541978ab7b14.js.map"
+      "path---image-grammar-65744442429cf9a6b300.js",
+      "path---image-grammar-65744442429cf9a6b300.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
