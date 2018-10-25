@@ -1,16 +1,20 @@
 {
   "assetsByChunkName": {
     "path---web-portfolio": [
-      "path---web-portfolio-4cf6fc7de8b240619215.js",
-      "path---web-portfolio-4cf6fc7de8b240619215.js.map"
+      "path---web-portfolio-272152edcad37898b8af.js",
+      "path---web-portfolio-272152edcad37898b8af.js.map"
     ],
     "path---tags-lesson": [
-      "path---tags-lesson-b373ee969995b062437f.js",
-      "path---tags-lesson-b373ee969995b062437f.js.map"
+      "path---tags-lesson-fd2dd2172c8d6ae7c905.js",
+      "path---tags-lesson-fd2dd2172c8d6ae7c905.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---travel-drawing-oneday": [
+      "path---travel-drawing-oneday-cc4ceb30a70c00b70163.js",
+      "path---travel-drawing-oneday-cc4ceb30a70c00b70163.js.map"
     ],
     "component---src-layouts-index-jsx": [
       "component---src-layouts-index-jsx-ea79836b6d3eeb353a41.js",
@@ -21,16 +25,16 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "path---git-workshop": [
-      "path---git-workshop-25c60ffe7495834086b3.js",
-      "path---git-workshop-25c60ffe7495834086b3.js.map"
+      "path---git-workshop-a368c7cc468c42cba1ec.js",
+      "path---git-workshop-a368c7cc468c42cba1ec.js.map"
     ],
     "component---src-templates-category-jsx": [
       "component---src-templates-category-jsx-4d8f53f0fca2afc57e90.js",
       "component---src-templates-category-jsx-4d8f53f0fca2afc57e90.js.map"
     ],
     "path---index": [
-      "path---index-b810b41fec9e99befd36.js",
-      "path---index-b810b41fec9e99befd36.js.map"
+      "path---index-8f5e3a0ae9400e017922.js",
+      "path---index-8f5e3a0ae9400e017922.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-41b4cd6c320de232bda9.js",
@@ -41,56 +45,56 @@
       "commons-b7de95133df10df7592c.js.map"
     ],
     "path---travel-drawing": [
-      "path---travel-drawing-1e6834c997078add3d70.js",
-      "path---travel-drawing-1e6834c997078add3d70.js.map"
+      "path---travel-drawing-e0ef99ab7fd1cefd2c04.js",
+      "path---travel-drawing-e0ef99ab7fd1cefd2c04.js.map"
     ],
     "component---src-templates-tag-jsx": [
       "component---src-templates-tag-jsx-44e8681665c0e01d1c91.js",
       "component---src-templates-tag-jsx-44e8681665c0e01d1c91.js.map"
     ],
     "path---color-pencil": [
-      "path---color-pencil-a7a85d70cf15f535f30d.js",
-      "path---color-pencil-a7a85d70cf15f535f30d.js.map"
+      "path---color-pencil-41b34542f8334d46ea05.js",
+      "path---color-pencil-41b34542f8334d46ea05.js.map"
     ],
     "path---abstract-drawing": [
-      "path---abstract-drawing-4621a2e20a37a6591149.js",
-      "path---abstract-drawing-4621a2e20a37a6591149.js.map"
+      "path---abstract-drawing-22408180b5d81607f203.js",
+      "path---abstract-drawing-22408180b5d81607f203.js.map"
     ],
     "path---colorpencil-tart": [
-      "path---colorpencil-tart-19e25be6c8457f097eaa.js",
-      "path---colorpencil-tart-19e25be6c8457f097eaa.js.map"
+      "path---colorpencil-tart-0abef8bf5384b0f93009.js",
+      "path---colorpencil-tart-0abef8bf5384b0f93009.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-templates-post-jsx": [
-      "component---src-templates-post-jsx-3c8b73e2e6e88d6db6ed.js",
-      "component---src-templates-post-jsx-3c8b73e2e6e88d6db6ed.js.map"
+      "component---src-templates-post-jsx-6b5782289bb43cd4fc05.js",
+      "component---src-templates-post-jsx-6b5782289bb43cd4fc05.js.map"
     ],
     "path---categories-lesson": [
-      "path---categories-lesson-6d72c65d660618f9273f.js",
-      "path---categories-lesson-6d72c65d660618f9273f.js.map"
+      "path---categories-lesson-5571c59ba77e24a42aab.js",
+      "path---categories-lesson-5571c59ba77e24a42aab.js.map"
     ],
     "component---src-pages-index-jsx": [
       "component---src-pages-index-jsx-89f9943cd1ef8f4e48af.js",
       "component---src-pages-index-jsx-89f9943cd1ef8f4e48af.js.map"
     ],
     "app": [
-      "app-166558cbf97a21909b35.js",
-      "app-166558cbf97a21909b35.js.map"
+      "app-a74870b505a319d9473e.js",
+      "app-a74870b505a319d9473e.js.map"
     ],
     "path---image-grammar": [
-      "path---image-grammar-6e556f9dd531896fce21.js",
-      "path---image-grammar-6e556f9dd531896fce21.js.map"
+      "path---image-grammar-7d4d00ab3300816710af.js",
+      "path---image-grammar-7d4d00ab3300816710af.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
       "path---about-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---tags-oneday": [
-      "path---tags-oneday-0862430a9abd6e5b3a59.js",
-      "path---tags-oneday-0862430a9abd6e5b3a59.js.map"
+      "path---tags-oneday-d0930ffc4bd4527af2e6.js",
+      "path---tags-oneday-d0930ffc4bd4527af2e6.js.map"
     ]
   }
 }
