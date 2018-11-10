@@ -37,7 +37,11 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
+<<<<<<< HEAD
 var precacheConfig = [["/app-d7c427d77661fecbff53.js","112c019f52715347e5f21c27772f8256"],["/commons-cbed6523561c9bddc6d7.js","de1be2b51d2d5859eae96ce127412ddb"],["/index.html","22261d056f0ec8c9c34b1eb81f7fb8e0"],["/manifest.webmanifest","a48b4354286ff2e3e88951192b38cb3c"],["/offline-plugin-app-shell-fallback/index.html","bd1e792ad2109ed091c5b0067320d925"]];
+=======
+var precacheConfig = [["/app-1fb505da3be924fbc858.js","515a5ab6c63534d470f86815d55a90b4"],["/commons-b7de95133df10df7592c.js","278c19c0d4974d4a460bd136bf78b43d"],["/index.html","2d21c1d3b630f15eb773e447806fb64b"],["/manifest.webmanifest","a48b4354286ff2e3e88951192b38cb3c"],["/offline-plugin-app-shell-fallback/index.html","bc9329520b31722f3738576dcc026ba9"]];
+>>>>>>> 08c352919df704f38dd26529d13d2bbc159ca634
 var cacheName = 'sw-precache-v3-gatsby-plugin-offline-' + (self.registration ? self.registration.scope : '');
 
 
