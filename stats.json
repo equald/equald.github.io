@@ -1,40 +1,64 @@
 {
   "assetsByChunkName": {
     "path---web-portfolio": [
+<<<<<<< HEAD
       "path---web-portfolio-9df490730dd287e90f8e.js",
       "path---web-portfolio-9df490730dd287e90f8e.js.map"
     ],
     "path---tags-lesson": [
       "path---tags-lesson-7dcdc0c912e93eb0a8a6.js",
       "path---tags-lesson-7dcdc0c912e93eb0a8a6.js.map"
+=======
+      "path---web-portfolio-d66d504800e782f4025b.js",
+      "path---web-portfolio-d66d504800e782f4025b.js.map"
+    ],
+    "path---tags-lesson": [
+      "path---tags-lesson-bde7137bdccdc43e2982.js",
+      "path---tags-lesson-bde7137bdccdc43e2982.js.map"
+>>>>>>> 383502eb221c74a140e83a94608386d23d9748e2
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "path---travel-drawing-oneday": [
+<<<<<<< HEAD
       "path---travel-drawing-oneday-013167b994f9f58c1814.js",
       "path---travel-drawing-oneday-013167b994f9f58c1814.js.map"
+=======
+      "path---travel-drawing-oneday-3df1fd2d2a1ac28688cb.js",
+      "path---travel-drawing-oneday-3df1fd2d2a1ac28688cb.js.map"
+>>>>>>> 383502eb221c74a140e83a94608386d23d9748e2
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-78b595d30615b3028bf2.js",
-      "component---src-layouts-index-jsx-78b595d30615b3028bf2.js.map"
+      "component---src-layouts-index-jsx-ea79836b6d3eeb353a41.js",
+      "component---src-layouts-index-jsx-ea79836b6d3eeb353a41.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "path---git-workshop": [
+<<<<<<< HEAD
       "path---git-workshop-ee33759bc00aaf2d44d0.js",
       "path---git-workshop-ee33759bc00aaf2d44d0.js.map"
+=======
+      "path---git-workshop-478ff3b212601cea818d.js",
+      "path---git-workshop-478ff3b212601cea818d.js.map"
+>>>>>>> 383502eb221c74a140e83a94608386d23d9748e2
     ],
     "component---src-templates-category-jsx": [
       "component---src-templates-category-jsx-3def5e3eb2d497253580.js",
       "component---src-templates-category-jsx-3def5e3eb2d497253580.js.map"
     ],
     "path---index": [
+<<<<<<< HEAD
       "path---index-4f24186d85b0503672d5.js",
       "path---index-4f24186d85b0503672d5.js.map"
+=======
+      "path---index-8fb990e49a9668282907.js",
+      "path---index-8fb990e49a9668282907.js.map"
+>>>>>>> 383502eb221c74a140e83a94608386d23d9748e2
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-41b4cd6c320de232bda9.js",
@@ -45,14 +69,20 @@
       "commons-cbed6523561c9bddc6d7.js.map"
     ],
     "path---travel-drawing": [
+<<<<<<< HEAD
       "path---travel-drawing-46b5f246d31a8c19ef0d.js",
       "path---travel-drawing-46b5f246d31a8c19ef0d.js.map"
+=======
+      "path---travel-drawing-6856c1d03c31ab644502.js",
+      "path---travel-drawing-6856c1d03c31ab644502.js.map"
+>>>>>>> 383502eb221c74a140e83a94608386d23d9748e2
     ],
     "component---src-templates-tag-jsx": [
       "component---src-templates-tag-jsx-b7f7c565a5222014ccc5.js",
       "component---src-templates-tag-jsx-b7f7c565a5222014ccc5.js.map"
     ],
     "path---color-pencil": [
+<<<<<<< HEAD
       "path---color-pencil-8def8926b766f3ba8a90.js",
       "path---color-pencil-8def8926b766f3ba8a90.js.map"
     ],
@@ -63,18 +93,39 @@
     "path---colorpencil-tart": [
       "path---colorpencil-tart-d9bdf5ca9b8a33123dbb.js",
       "path---colorpencil-tart-d9bdf5ca9b8a33123dbb.js.map"
+=======
+      "path---color-pencil-ed1325bcad0f22126cf5.js",
+      "path---color-pencil-ed1325bcad0f22126cf5.js.map"
+    ],
+    "path---abstract-drawing": [
+      "path---abstract-drawing-d557bd8b7df0f5abb097.js",
+      "path---abstract-drawing-d557bd8b7df0f5abb097.js.map"
+    ],
+    "path---colorpencil-tart": [
+      "path---colorpencil-tart-31d5ff21dc4b05ae65bc.js",
+      "path---colorpencil-tart-31d5ff21dc4b05ae65bc.js.map"
+>>>>>>> 383502eb221c74a140e83a94608386d23d9748e2
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-templates-post-jsx": [
+<<<<<<< HEAD
       "component---src-templates-post-jsx-aa29365c0d79f4c54446.js",
       "component---src-templates-post-jsx-aa29365c0d79f4c54446.js.map"
     ],
     "path---categories-lesson": [
       "path---categories-lesson-ab8ced6aab0be7317ad7.js",
       "path---categories-lesson-ab8ced6aab0be7317ad7.js.map"
+=======
+      "component---src-templates-post-jsx-cdf1287f3ce4a137c3bf.js",
+      "component---src-templates-post-jsx-cdf1287f3ce4a137c3bf.js.map"
+    ],
+    "path---categories-lesson": [
+      "path---categories-lesson-62d96103fb84e68a3d87.js",
+      "path---categories-lesson-62d96103fb84e68a3d87.js.map"
+>>>>>>> 383502eb221c74a140e83a94608386d23d9748e2
     ],
     "component---src-pages-index-jsx": [
       "component---src-pages-index-jsx-4a678c21ecd5fce50a96.js",
@@ -85,6 +136,7 @@
       "path---abstract-drawing-oneday-e1b656861e0096b4c60b.js.map"
     ],
     "app": [
+<<<<<<< HEAD
       "app-4f932a717bb1e7ca326a.js",
       "app-4f932a717bb1e7ca326a.js.map"
     ],
@@ -95,14 +147,31 @@
     "path---image-grammar-oneday": [
       "path---image-grammar-oneday-108e5c75ef502a7ce1ff.js",
       "path---image-grammar-oneday-108e5c75ef502a7ce1ff.js.map"
+=======
+      "app-ed373b16249cebbb5a6a.js",
+      "app-ed373b16249cebbb5a6a.js.map"
+    ],
+    "path---image-grammar": [
+      "path---image-grammar-ad32f33808719753554e.js",
+      "path---image-grammar-ad32f33808719753554e.js.map"
+    ],
+    "path---image-grammar-oneday": [
+      "path---image-grammar-oneday-d161a10e2a49278c499a.js",
+      "path---image-grammar-oneday-d161a10e2a49278c499a.js.map"
+>>>>>>> 383502eb221c74a140e83a94608386d23d9748e2
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
       "path---about-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---tags-oneday": [
+<<<<<<< HEAD
       "path---tags-oneday-86d87bce07b19cf32bcc.js",
       "path---tags-oneday-86d87bce07b19cf32bcc.js.map"
+=======
+      "path---tags-oneday-6d9319cd4cf58c921ae9.js",
+      "path---tags-oneday-6d9319cd4cf58c921ae9.js.map"
+>>>>>>> 383502eb221c74a140e83a94608386d23d9748e2
     ]
   }
 }
