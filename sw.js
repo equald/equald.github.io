@@ -37,11 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-<<<<<<< HEAD
-var precacheConfig = [["/app-4f932a717bb1e7ca326a.js","b34ebbf6e270864504cc2ac431f08fe2"],["/commons-cbed6523561c9bddc6d7.js","8d006cf246131fe5a54f41cfc7bb7319"],["/index.html","5915b23e2a7da72a79632f33b16e046f"],["/manifest.webmanifest","a48b4354286ff2e3e88951192b38cb3c"],["/offline-plugin-app-shell-fallback/index.html","540faa8afac9ec5e350aeaf1571a84b1"]];
-=======
-var precacheConfig = [["/app-ed373b16249cebbb5a6a.js","96fd762912c0baa241516825d8621a85"],["/commons-cbed6523561c9bddc6d7.js","7ebcf8da372ccf8948af573f97fbb5e1"],["/index.html","cdad5956cee7898f912ed3a221b7f727"],["/manifest.webmanifest","a48b4354286ff2e3e88951192b38cb3c"],["/offline-plugin-app-shell-fallback/index.html","991750de18152c153f079a10af704bb3"]];
->>>>>>> 383502eb221c74a140e83a94608386d23d9748e2
+var precacheConfig = [["/app-b3cc41b8a556723fd1a5.js","3d05282db2e7e32a8fe762842f9a0dea"],["/commons-cbed6523561c9bddc6d7.js","8d006cf246131fe5a54f41cfc7bb7319"],["/index.html","23cb33afdd0238670e316c169ddb1ab0"],["/manifest.webmanifest","a48b4354286ff2e3e88951192b38cb3c"],["/offline-plugin-app-shell-fallback/index.html","9bd20321d74c1ca9223957ec66c1b24d"]];
 var cacheName = 'sw-precache-v3-gatsby-plugin-offline-' + (self.registration ? self.registration.scope : '');
 
 
